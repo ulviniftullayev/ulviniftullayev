@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ulviniftullayev
+- 👀 I am a risk analyst. My academic interests lie in economic growth, macroeconomics, econometrics, and political economy
+- 🌱 In my free time, I like to play tennis, read or cook (sometimes), and other than that just waste my time 
+- 💞️ As a risk analyst, a part of my job is econometric modeling which I perform in R, which is what all my repositories are based on (I am not that good in R really...)
+- 📫 If you have any questions regarding my repository, you can email me at ulvi[dot]niftullayev[at]gmail[dot]com
